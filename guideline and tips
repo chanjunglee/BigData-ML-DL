@@ -1,0 +1,9 @@
+# before the beginning to our forest
+
+# knn in r (supervisor)
+
+# K nearest neighbor(init, knn) is literally to classify data by the degree of distance from k value.
+# simply, if new data inputs into the model, it's gathered the nearest data and they're bound as the same group.
+# in this model, the point is to find the most profit k-value for classifying to data well
+# (we gatta avoid to overfitting or underfitting.)
+
