@@ -1,12 +1,12 @@
+# keywords for Deep-Learning
 
+get_variable : 
 
-get_variable
+sotfmax : 
 
-sotfmax
+argmax : 
 
-argmax
-
-tf.reset_default_graph() 
+tf.reset_default_graph() : pycharm에선 필요없지만, jupyter 에서 변수를 초기화시켜준다.
 
 placeholder
 
